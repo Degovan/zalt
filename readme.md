@@ -1,6 +1,6 @@
 ### Zalt
 
-API for Developer php
+Slim API Framework for PHP Developers
 
 ## License
 

@@ -1,0 +1,15 @@
+{
+    "name": "zalt/framework",
+    "description": "Zalt - Slim API Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Degovan",
+            "email": "degovan@gmail.com",
+            "homepage": "https://degovan.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
