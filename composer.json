@@ -11,5 +11,17 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Zalt\\": "src/Zalt/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zalt\\Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
